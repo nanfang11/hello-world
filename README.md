@@ -1,2 +1,3 @@
 # hello-world
-just a simmple tyr
+just a simmple try
+learn to  how to use githup
